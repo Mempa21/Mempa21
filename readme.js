@@ -11,7 +11,7 @@ I also work on small projects on this GitHub to have some fun.
 - [Youtube](https://www.youtube.com/@Mempa21)
 - [Mail](mailto:mempa1peu@gmail.com)
 
-### My Projects
+<!-- ### My Projects
 
 - [Mempa](https://mlv.sh/mempa)
 
@@ -28,7 +28,7 @@ I also work on small projects on this GitHub to have some fun.
 - [DocuGen](https://mlv.sh/docugen)
 
   A SaaS tool that automatically generates documentation from source code, with customizable options to tailor the style and structure to the team’s needs.
-
+-->
 ### Visitor Count
 
 <img src="https://profile-counter.glitch.me/Mempa/count.svg" />
